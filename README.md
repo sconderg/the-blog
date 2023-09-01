@@ -36,3 +36,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## The technologies I have used
+
+Used react-query to mutate the new blog data to the API endpoint
+Used chakra UI's components to make blog post component
+Used Next.js's SSG feature to generate a list of blog posts
+Used Formik and Up to control create a new blog's form
+Used tailwind to style some parts like hear
+
