@@ -40,8 +40,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## The technologies I have used
 
 Used react-query to mutate the new blog data to the API endpoint
+
 Used chakra UI's components to make blog post component
+
 Used Next.js's SSG feature to generate a list of blog posts
+
 Used Formik and Up to control create a new blog's form
+
 Used tailwind to style some parts like hear
 
